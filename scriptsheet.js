@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
   //quiz heading
-  document.getElementById("heading").innerHTML = "How much do you know about humanities best friend?";
+  document.getElementById("heading").innerHTML = "How much do you know about humanity's best friend?";
 
 //questions and answers, using index function for correct answers
 let quizQuestions = [
@@ -157,7 +157,7 @@ let quizQuestions = [
     correctAnswer: 'Cats',
   },
   //20
-  {question: '20. Is this an adorable pupper?',
+  {question: '<img src=\"pupper.jpg\"/><br>20. Is this an adorable pupper?',
     answers: [
       'Yes',
       'No'],

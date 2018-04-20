@@ -5,28 +5,37 @@ body{
 }
 
 h3{
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Righteous', cursive;
+}
+
+div{
+  margin-left: 35%;
+}
+
+img{
+  border: 2px black solid;
 }
 
 #heading{
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 40px;
   font-weight: bold;
-}
-
-#quiz{
-
+  text-align: center;
 }
 
 #submit{
   font-size: 20px;
   padding: 15px;
-  margin: 15px;
+  margin-left: 45%;
+  margin-top: 20px;
 }
 
 #results{
-  margin: 15px;
-  padding-left: 10px;
+  margin-left: : 470;
+  margin-top: 20px;
+  width: 450px;
+  padding: 25px;
   border: 3px blue double;
   background-color: #00cdcd;
+  text-align: center;
 }
